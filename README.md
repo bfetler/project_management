@@ -4,19 +4,19 @@
 
 You're happily working away, feeling great, writing software, adding features, etc.  You've got a great team, working on something cool.  
 
-*Then* someone wants to add a new feature.  Or you have a great idea, but you can't do it all yourself.  You end up arguing with your coworkers in a series of meetings, and nothing gets done.
+__*Then*__ someone wants to add a new feature.  Or you have a great idea, but you can't do it all yourself.  You end up discussing ideas with your coworkers in a series of meetings, and nothing gets done.
 
-*And then* you find out your competition has just released their software, and it looks a lot like what you've been working on.  It may not be finished yet, but you can't quite tell, and they're first to market.  
+__*And then*__ you find out your competition has just released their software, and it looks a lot like what you've been working on.  It may not be finished yet, but you can't quite tell, and they're first to market.  
 
-Your team had a timeline of three months.  Now the managers want a prototype today (or yesterday), something to release by the end of the week, otherwise you'll lose customers, or maybe the entire product line.  
+Your team had a timeline of three months.  Now the managers want a prototype today (or yesterday), something to release by the end of the week.  Otherwise you'll lose customers, or maybe the entire product line.  
 
 __Q: What do you do?__
 + Panic.
 + Go to Defcon 2.
 + Take a quick look at your competitors.  It's not as bad as you think, but hard to convince others.
 + Work really long, intense hours for days.
-+ Grumble to your coworkers.
-+ Watch managers throw a temper tantrum.  
++ Complain to your coworkers.
++ Listen to managers grumble.  
 + Blame others.  Blame yourself.
 + Go home, go to the gym, eat, sleep on it.
 + Ignore it and hope it will go away.  
@@ -33,7 +33,7 @@ __Q: What *can* you do?__
 __A: Project Management__ 
 
 Project management has tools to help you organize, understand, anticipate and react.  Even if it's not your primary job, it will be somebody's job in your organization. 
-Project management can help you to understand how they think, help them plan, and help everything run smoothly.  
+Project management tools can help you to understand how they think, help them plan, and help everything run smoothly.  
 
 There are several styles of project management:
 + Agile (popular these days)
@@ -45,7 +45,7 @@ Regardless of which style of project management you use, there are common featur
 ### Essential Features of Project Management
 
 ##### 1. Definition
-*What is a project?*  An activity with a definite goal within a specified time frame.  
+*What is a project?*  An activity with a definite, measurable goal within a specified time frame.  
 
 Example Mission Statements
 + Put a man on the moon by the end of the decade.  (JFK)
@@ -83,34 +83,38 @@ Example Mission Statements
 Some roles may overlap, depending how things are done.
 
 ##### 4. Resources, Schedule, Scope 
-There are several project variables to work with.
+There are three main project variables to work with.
 + *Resources*: people, budget, software and hardware needed
 + *Schedule*: define time estimates, dependencies of different phases of project
 + *Scope*: what is included in each phase, and what is not
 
-Some of these are defined early in a project, e.g. basic outline needed to obtain budget, resources, approval.  Once basic resources are approved, you may have some leeway to rearrange them. 
+Some of these are defined early in a project, e.g. a basic outline needed to obtain budget, resources, approval.  Once basic resources are approved, you may have some leeway to allocate or rearrange them. 
 
 The *Iron Triangle.*  (find picture)  You can trade off project variables.  
 
 Examples:
-+ *If schedule is cut:* cut the scope, or add resources.  
-+ *If resources are cut:* increase schedule to get same amount of work done.
++ *If schedule is cut:* Cut the scope, or add resources.  
++ *If resources are cut:* Increase schedule to get same amount of work done.
 
 ##### 5. Work Breakdown Structure
-Define what the team will do, as best possible.
+Define what the team will do, as much as possible.
 + Brainstorm ideas (usually at the start of project or phase)
 + Define user stories, what customers want. May be broken into individual interations:
     + Customer A
     + looking for item B
     + visits web page W
     + has possible choices C1, C2, C3
-    + assign priority (high, medium, low)
+    + has possible outcomes O1, O2, O3
+    + assign priority to user story (high, low, 1-5)
 + Break into doable pieces, work items.  Level of detail depends what you need.
-+ Define dependencies.  *Example:* Item A must be done before Items B and C, but B and C may be done in any order.
++ Define dependencies.  *Example:* 
+    + Item A must be done before Items B and C.
+    + Items B and C may be done in any order, and do not depend on each other.
 + Rearrange work items, schedules.
 + Prioritize items.  Some items are required, have fixed schedule and dependencies, others are flexible.
-+ Set time estimates for each item. Don't forget time for writing software, testing software, writing documentation.
-+ Are time estimates accurate?  What is the error range?
++ Set time estimates for each item.  
+    + Don't forget time for writing software, testing software, writing documentation.
+    + Are time estimates accurate?  What is the error range?
 
 + Tools for defining work items, flow:
     + whiteboard
@@ -126,6 +130,7 @@ Define what the team will do, as best possible.
 + Set milestones, major changes in scope.
 + Do high priority items first, the ones in scope for phase or project. 
 + Move other items to a later phase or release.
+
 + May need to find critical path (picture), find Minimum Viable Product (MVP).  
 + Be aware any of these may change.
 
@@ -133,7 +138,7 @@ Define what the team will do, as best possible.
 How to manage a project depends on the organization.
 + Big companies, government, 1000's of workers.  
     + Break into smaller teams
-    + Teams need to communicate with each other at different phases.
+    + Teams communicate with each other at different phases.
     + Need organization.
     + Usually longer time frame. 
     + *Example:* Waterfall, lots of chained dependencies.
@@ -144,23 +149,23 @@ How to manage a project depends on the organization.
     + *Example:* Scrum
         + Monthly sprints (working product at end of each sprint).
         + Daily short standup meetings to resolve blocking issues.
-        + Review feature backlog, burndown rate (buzzwords).  
+        + Review feature backlog, burndown rate, priorities.  
 
-All methods of project management need:
+All methods of project management need the following common items.
 + product definitions
 + testing
 + customer feedback
 + issue tracking, metrics
 
-##### 7. Tips for good productive meetings
-Not all steps are necessary for every meeting, but they can lead to better productivity.  
+##### 7. Tips for productive meetings
+Not all the steps below are necessary for every meeting, but they can lead to better productivity.  
 + What type of meeting is it?  Announcements, design review, status reports?
-+ Create a written agenda (email beforehand).  Clearly state goals. 
-+ One person presenting?  Or each team member presents (encourage all to participate)?
-+ Only invite those needed.  Do not waste others time.  (But make sure necessary stakeholders are represented.)
-+ Give everyone a chance to speak, give input.
-+ Do not interrupt people.  Do not let one person dominate the meeting.
-+ Set a limit of one hour or less (unless extraordinary).  People get bored, tired, need a break if longer.
++ Create a written agenda, distribute beforehand.  Clearly state goals, expected actions. 
++ One person presenting?  Or each team member presents?
++ Only invite those needed, but make sure necessary stakeholders are represented.  Do not waste others time.
++ Give everyone a chance to speak, give input if needed.
++ Do not interrupt people.  Do not let people dominate the meeting or get off track.  Some discussions can wait until later.
++ Set a limit of one hour or less, unless extraordinary.  People get bored, tired, need a break if longer.
 + Are decisions expected, or just a discussion?
 + Create action items.  Assign responsibilities to them, if possible.
 + Write up meeting minutes.
@@ -171,9 +176,9 @@ Hopefully this will avoid repeat meetings on the same topic with no decisions ma
 + Release to customers!
 + Communicate well to stakeholders.
 + Get revenue.
-+ Gather / monitor feedback.
-+ Track unreleased features (for next sprint / release), bugs,  unresolved issues
-+ Add fixes / patches as needed.
++ Gather and monitor feedback.
++ Track unreleased features (for next sprint or release), bugs, unresolved issues
++ Add fixes or patches as needed.
 + Plan for product end-of-life if needed.
 + Review lessons learned, retrospective.
 
@@ -185,10 +190,10 @@ Hopefully this will avoid repeat meetings on the same topic with no decisions ma
 + Define resources, schedule, scope.
 + Set work items, time estimates, dependencies.
 + Prioritize.
-+ Use software tracking, feature / bug tracking.
++ Use software tracking, feature and bug tracking.
 + Build your dream.
 
-These tools are here to help you.  They also to help managers understand what's going on.
+These tools are here to help you.  They also to help managers track and understand what's going on.
 
 If you like, take a class on Project Management (usually 8-10 weeks).  Practice with the projects you have.  You can even get certified as a PMP (Project Management Professional).
 
@@ -200,7 +205,6 @@ Given all of these tools, how would you respond to a "crisis"?
 + Talk to others, get ideas, input.
 + Cut scope, schedule where possible.
 + Give management options.  Let them decide.
-+ Learn.
 
 A wise (wo)man once said (find quote?):
 
