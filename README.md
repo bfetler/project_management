@@ -50,7 +50,7 @@ Regardless of which style of project management you use, there are common featur
 Example Mission Statements
 + Put a man on the moon by the end of the decade.  (JFK)
 + Create a way to post your resume online and track who visited it by the end of the year, or until you get a job.  Maybe 30 people would like to use it.  (Rasmus Lerdof, PHP creator)
-+ Create an online service for your friends to share music by the end of semester.
++ Create an online service for your friends to share music before festival season starts.
 
 ##### 2. Project phases
 + Start: 
@@ -88,7 +88,7 @@ There are three main project variables to work with.
 + *Schedule*: define time estimates, dependencies of different phases of project
 + *Scope*: what is included in each phase, and what is not
 
-Some of these are defined early in a project, e.g. a basic outline needed to obtain budget, resources, approval.  Once basic resources are approved, you may have some leeway to allocate or rearrange them. 
+Some of these are defined early in a project, e.g. create a basic outline needed to obtain budget, resources, approval.  Once basic resources are approved, you may have some leeway to allocate or rearrange them. 
 
 The *Iron Triangle.*  (find picture)  You can trade off project variables.  
 
@@ -112,11 +112,10 @@ Define what the team will do, as much as possible.
     + Items B and C may be done in any order, and do not depend on each other.
 + Rearrange work items, schedules.
 + Prioritize items.  Some items are required, have fixed schedule and dependencies, others are flexible.
-+ Set time estimates for each item.  
++ Set time estimates for each item.
     + Don't forget time for writing software, testing software, writing documentation.
     + Are time estimates accurate?  What is the error range?
-
-+ Tools for defining work items, flow:
++ Tools for defining work items, work flow:
     + whiteboard
     + post-its
     + project software (e.g. Pivotal Tracker, Microsoft Project)
@@ -127,11 +126,11 @@ Define what the team will do, as much as possible.
     + software source code tools: git, branching
     + get metrics: how complex each item, how long to complete
 
+Once definitions are set:
 + Set milestones, major changes in scope.
-+ Do high priority items first, the ones in scope for phase or project. 
++ Do high priority items first, the ones in scope for phase or project.
 + Move other items to a later phase or release.
-
-+ May need to find critical path (picture), find Minimum Viable Product (MVP).  
++ May need to find critical path (picture), find Minimum Viable Product (MVP).
 + Be aware any of these may change.
 
 ##### 6. Different ways to manage projects
@@ -159,17 +158,19 @@ All methods of project management need the following common items.
 
 ##### 7. Tips for productive meetings
 Not all the steps below are necessary for every meeting, but they can lead to better productivity.  
-+ What type of meeting is it?  Announcements, design review, status reports?
++ What type of meeting is it?  Announcements, design review, status reports?  Group meeting, one-on-one?
 + Create a written agenda, distribute beforehand.  Clearly state goals, expected actions. 
 + One person presenting?  Or each team member presents?
 + Only invite those needed, but make sure necessary stakeholders are represented.  Do not waste others time.
 + Give everyone a chance to speak, give input if needed.
-+ Do not interrupt people.  Do not let people dominate the meeting or get off track.  Some discussions can wait until later.
-+ Set a limit of one hour or less, unless extraordinary.  People get bored, tired, need a break if longer.
++ Do not interrupt people.  Do not let people dominate the meeting.  
++ If topic gets off track, ask people to discuss it separately after the meeting.
++ Set a limit of one hour or less, unless it's extraordinary.  People get bored, tired, need a break if longer.
 + Are decisions expected, or just a discussion?
 + Create action items.  Assign responsibilities to them, if possible.
 + Write up meeting minutes.
 + Follow up email with decisions made.
+
 Hopefully this will avoid repeat meetings on the same topic with no decisions made.
 
 ##### 8. Project end
