@@ -1,14 +1,14 @@
 ## Essentials of Project Management
 
-### Why project management?  Why do you need it?
+### Why project management?  
 
 You're happily working away, feeling great, writing software, adding features, etc.  You've got a great team, working on something cool.  
 
-*Then* someone wants to add a new feature.  Or you have a great idea, but you can't do it all yourself.  You end up arguing with your coworkers in a series of endless meetings, and nothing gets done.
+*Then* someone wants to add a new feature.  Or you have a great idea, but you can't do it all yourself.  You end up arguing with your coworkers in a series of meetings, and nothing gets done.
 
 *And then* you find out your competition has just released their software, and it looks a lot like what you've been working on.  It may not be finished yet, but you can't quite tell, and they're first to market.  
 
-Your team had a timeline of three months.  Now the managers want a prototype today (or yesterday), something to release by the end of the week, otherwise you'll lose customers.  
+Your team had a timeline of three months.  Now the managers want a prototype today (or yesterday), something to release by the end of the week, otherwise you'll lose customers, or maybe the entire product line.  
 
 __Q: What do you do?__
 + Panic.
@@ -18,13 +18,12 @@ __Q: What do you do?__
 + Grumble to your coworkers.
 + Watch managers throw a temper tantrum.  
 + Blame others.  Blame yourself.
-+ Ignore it and hope it will go away.  
 + Go home, go to the gym, eat, sleep on it.
-+ Other suggestions?  
++ Ignore it and hope it will go away.  
 
 Sound familiar?  Has this happened before?  
 
-Of course it has.  Many, many times to many, many good people and projects.  You are not the first, and you will not be the last person this happens to.
+Of course it has.  Many times to many good people and projects.  You are not the first, and you will not be the last.
 
 __Q: What *can* you do?__
 + Get organized. 
@@ -34,9 +33,9 @@ __Q: What *can* you do?__
 __A: Project Management__ 
 
 Project management has tools to help you organize, understand, anticipate and react.  Even if it's not your primary job, it will be somebody's job in your organization. 
-It can help you to understand how they think, help them plan, and help everything run smoothly.  
+Project management can help you to understand how they think, help them plan, and help everything run smoothly.  
 
-Several styles of project management:
+There are several styles of project management:
 + Agile (popular these days)
 + Waterfall 
 + Other 
@@ -46,14 +45,12 @@ Regardless of which style of project management you use, there are common featur
 ### Essential Features of Project Management
 
 ##### 1. Definition
-*What is a project?*
-
-An activity with a definite goal within a specified time frame.  
+*What is a project?*  An activity with a definite goal within a specified time frame.  
 
 Example Mission Statements
 + Put a man on the moon by the end of the decade.  (JFK)
-+ Create a way to post your resume online and track who visited it by the end of the semester.  (Rasmus Lerdof, PHP)
-+ Create an online music service for your friends to share music by the end of semester, and for everyone to share by the end of they year.
++ Create a way to post your resume online and track who visited it by the end of the year, or until you get a job.  Maybe 30 people would like to use it.  (Rasmus Lerdof, PHP creator)
++ Create an online service for your friends to share music by the end of semester.
 
 ##### 2. Project phases
 + Start: 
@@ -67,25 +64,27 @@ Example Mission Statements
 + End: 
     + Product release!  
     + Wind down resources, or reallocate to other projects.  
-    + Plan for product support after release, maintenance, 
-    + End-of-life planning (e.g. when replaced by another product).  
+    + Plan for maintenance, product support after release. 
+    + End-of-life planning (product will be replaced by a new version).  
 
 ##### 3. Define stakeholders, roles  
 + Stakeholders are anyone who has an interest in the project.  
     + Managers
-    + Workers (engineers, sales, marketing, tech support)
-    + Contractors, vendors (hardware / software resources, infrastructure)
+    + Engineers, sales, marketing, tech support
+    + Contractors, vendors (hardware and software resources, infrastructure)
     + Customers (internal and external)
 + Roles
     + Software developer
     + Software tester
     + Customer representatives
     + Product owner, scrum master (helps define the product, keep it on track)
-    + Managers, executives, administration, accountants
+    + Managers, executives, administration, accountants  
+
+Some roles may overlap, depending how things are done.
 
 ##### 4. Resources, Schedule, Scope 
 There are several project variables to work with.
-+ *Resources*: people, budget, software & hardware needed
++ *Resources*: people, budget, software and hardware needed
 + *Schedule*: define time estimates, dependencies of different phases of project
 + *Scope*: what is included in each phase, and what is not
 
@@ -124,6 +123,7 @@ Define what the team will do, as best possible.
     + software source code tools: git, branching
     + get metrics: how complex each item, how long to complete
 
++ Set milestones, major changes in scope.
 + Do high priority items first, the ones in scope for phase or project. 
 + Move other items to a later phase or release.
 + May need to find critical path (picture), find Minimum Viable Product (MVP).  
