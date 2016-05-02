@@ -206,7 +206,7 @@ Given all of these tools, how would you respond to a "crisis"?
 + Get organized.
 + Look at resources, schedule, scope.
 + Talk to others, get ideas, input.
-+ Cut scope, schedule where possible.
++ Cut scope and schedule, add resources where possible.
 + Give management options.  Let them decide.
 
 A wise (wo)man once said (find quote?):
@@ -216,3 +216,4 @@ Experience comes from bad judgment.
 
 Keep learning.
 
+__Note:__ These are notes for a future talk.  I'll try to keep it under an hour.
