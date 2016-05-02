@@ -82,7 +82,7 @@ Example Mission Statements
 Some roles may overlap, depending how things are done.
 
 ##### 4. Resources, Schedule, Scope 
-There are three main project variables to work with:
+There are three main project variables to work with.
 + *Resources*: people, budget, software and hardware needed
 + *Schedule*: define time estimates, dependencies of different phases of project
 + *Scope*: what is included in each phase, and what is not
@@ -97,7 +97,7 @@ Examples:
 
 ##### 5. Work Breakdown Structure
 Define what the team will do, as much as possible.
-+ Brainstorm ideas (usually at the start of project or phase)
++ Brainstorm ideas (usually at the start of project or phase).
 + Define user stories, what customers want. May be broken into individual interations:
     + Customer A
     + looking for item B
@@ -112,7 +112,7 @@ Define what the team will do, as much as possible.
 + Rearrange work items, schedules.
 + Prioritize items and user stories.  Some items are required, have fixed schedule and dependencies, others are flexible.
 + Set time estimates for each item.
-    + Don't forget time for writing software, testing software, writing documentation.
+    + Don't forget time for writing and testing software, writing documentation.
     + Are time estimates accurate?  What is the error range?
 
 Tools for defining work items, work flow:
