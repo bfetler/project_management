@@ -1,37 +1,19 @@
 ## Essentials of Project Management
 
-### Why project management?  
+### Why do you need project management?  
 
-You're happily working away, feeling great, writing software, adding features, etc.  You've got a great team, working on something cool.  
+You're happily working away, feeling great, writing software, adding features, etc.  You've got a great team, working on a cool product.
 
-__*Then*__ someone wants to add a new feature.  Or you have a great idea, but you can't do it all yourself.  You end up discussing ideas with your coworkers in a series of meetings, and nothing gets done.
+__*Then*__ you or someone on the team wants to a new feature, but it doesn't quite mesh with the rest of the product.
 
-__*And then*__ you find out your competition has just released their software, and it looks a lot like what you've been working on.  It may not be finished yet, but you can't quite tell, and they're first to market.  
-
-Your team had a timeline of three months to finish the product.  Now the managers want a prototype today (or yesterday), something to release by the end of the week.  Otherwise you'll lose customers, or maybe the entire product line.  
-
-__Q: What do you do?__
-+ Panic.
-+ Take a quick look at your competitors.  It's not as bad as you think, but hard to convince others.
-+ Work really long, intense hours for days.
-+ Complain to your coworkers.
-+ Listen to managers grumble.  
-+ Blame others.  Blame yourself.
-+ Go home, go to the gym, eat, sleep on it.
-+ Ignore it and hope it will go away.  
-
-Sound familiar?  Has this happened before?  
-
-Yes.  Many times to many good people and projects.  You are not the first, and you will not be the last.
-
-__Q: What *can* you do?__
+__Q: What can you do to help?__
 + Get organized. 
 + Plan ahead. 
 + Prioritize.  
 
 __A: Project Management__ 
 
-Project management tools help you organize, understand, anticipate and react.  Even if it's not your primary job, it will be somebody's job in your organization. 
+Project management tools help you organize, understand, anticipate and react to changes in a plan or product.  Even if it's not your primary job, it will be somebody's job in your organization. 
 Project management tools can help you understand how they think, help them plan, and keep everything running smoothly.  
 
 There are several styles of project management:
@@ -202,18 +184,15 @@ If you like, take a class on Project Management (usually 8-10 weeks).  Practice 
 
 ### Back to Original Question
 
-Given all of these tools, how would you respond to a "crisis"?
+Given all of these tools, how would you respond to a new feature request, or any other change?
 + Get organized.
-+ Look at resources, schedule, scope.
++ Look at resources, schedule and scope.
 + Talk to others, get ideas, input.
-+ Cut scope and schedule, add resources where possible.
++ Plan where the new change will fit in your current product.
++ Assign it a priority. 
+    + If possible, add it to a later phase.  
+    + If needed in current phase, consider the impact on scope, schedule and resources.
 + Give management options.  Let them decide.
-
-A wise (wo)man once said (find quote?):
-
-Good judgment comes from experience.
-Experience comes from bad judgment.
-
-Keep learning.
++ Keep learning.
 
 __Note:__ These are notes for a future talk.  I'll try to keep it under an hour.
