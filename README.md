@@ -6,7 +6,7 @@ You're happily working away, feeling great, writing software, adding features, e
 
 __*Then*__ you or someone on the team wants to a new feature, but it doesn't quite mesh with the rest of the product.
 
-__Q: What can you do to help?__
+__Q: What can you do?__
 + Get organized. 
 + Plan ahead. 
 + Prioritize.  
