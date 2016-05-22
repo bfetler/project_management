@@ -70,14 +70,19 @@ There are three main project variables to work with.
 
 Some of these are defined early in a project.  For example, create a basic outline needed to obtain budget, resources and approval.  Once basic resources are approved, you have some leeway to allocate or rearrange them. 
 
-The *Iron Triangle* or *Triple Constraint.*  (find picture)  You can trade off project variables.  
+The *Iron Triangle* or *Triple Constraint.*   You can trade off project variables. 
+
+<img src="https://github.com/bfetler/project_management/blob/master/images/iron-triangle1.png" alt="iron triangle" />
 
 Examples:
-+ *If schedule is cut:* Cut the scope and do less work, or add resources and do the same amount of work.  
-+ *If resources are cut:* Increase schedule to get the same amount of work done.
++ *If schedule is cut:* Cut the scope and do less work in less time, or add resources and do the same amount of work.  
++ *If resources are cut:* Increase the schedule and add time to get the same amount of work done.
++ *If time estimates are too short:* 
+    + Increase the schedule (let the schedule slip).
+    + Cut the scope, pushing some features out to the next release.
 
 ##### 5. Work Breakdown Structure
-Define what the team will do.  Outline the phases of the project needed to have a viable product.
+Define what the team will do.  Outline the project phases needed to have a viable product.
 + Brainstorm ideas (usually at the start of project or phase).
 + Define user stories, what customers want. May be broken into individual interactions:
     + Customer A
