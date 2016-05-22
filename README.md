@@ -2,9 +2,7 @@
 
 ### Why do you need project management?  
 
-You're happily working away, feeling great, writing software, adding features, etc.  You've got a great team, working on a cool product.
-
-__*Then*__ you or someone on the team wants to a new feature, but it doesn't quite mesh with the rest of the product.
+__Scenario:__  You're working away on a project, writing software, adding and fixing features for a great new product.  __*Then*__ someone on the team wants to add a new feature, but it doesn't quite mesh with the rest of the product, or may not fit in the current timeline.
 
 __Q: What can you do?__
 + Get organized. 
@@ -13,12 +11,12 @@ __Q: What can you do?__
 
 __A: Project Management__ 
 
-Project management tools help you organize, understand, anticipate and react to changes in a plan or product.  Even if it's not your primary job, it will be somebody's job in your organization. 
+Project management helps you organize, understand, anticipate and react to changes in a plan or product.  Even if it's not your primary job, it will be somebody's job in your organization. 
 Project management tools can help you understand how they think, help them plan, and keep everything running smoothly.  
 
 There are several styles of project management:
-+ Agile (popular these days)
-+ Waterfall 
++ Agile (used in small, flexible teams)
++ Waterfall (used for larger organizations, e.g. government)
 + Other 
 
 Regardless of which style of project management you use, there are several common features and tools.
@@ -26,12 +24,13 @@ Regardless of which style of project management you use, there are several commo
 ### Essential Features of Project Management
 
 ##### 1. Definition
-*What is a project?*  An activity with a definite, measurable goal within a specified time frame.  
+*Q:* What is a project?  
+*A:* An activity with a definite, measurable goal within a specified time frame.  
 
 Example Mission Statements
 + Put a man on the moon by the end of the decade.  (JFK)
 + Create a way to post your resume online and track who visited it by the end of the year, or until you get a job.  Maybe 30 people would like to use it.  (Rasmus Lerdof, PHP creator)
-+ Create an online music service for your friends to share before music festival season starts.
++ Create an online music service for your friends to share music before festival season starts.
 
 ##### 2. Project phases
 + Start: 
@@ -50,7 +49,7 @@ Example Mission Statements
 
 ##### 3. Define stakeholders, roles  
 + Stakeholders are anyone who has an interest in the project.  
-    + Managers
+    + Managers, funding sources
     + Engineers, sales, marketing, tech support
     + Contractors, vendors (hardware and software resources, infrastructure)
     + Customers (internal and external)
@@ -78,9 +77,9 @@ Examples:
 + *If resources are cut:* Increase schedule to get the same amount of work done.
 
 ##### 5. Work Breakdown Structure
-Define what the team will do, as much as possible.
+Define what the team will do.  Outline the phases of the project needed to have a viable product.
 + Brainstorm ideas (usually at the start of project or phase).
-+ Define user stories, what customers want. May be broken into individual interations:
++ Define user stories, what customers want. May be broken into individual interactions:
     + Customer A
     + looking for item B
     + visits web page W
@@ -162,7 +161,7 @@ Hopefully this will avoid repeat meetings on the same topic with no decisions ma
 + Communicate well to stakeholders.
 + Get revenue.
 + Gather and monitor feedback.
-+ Track unreleased features (for next sprint or release), bugs, unresolved issues
++ Track unreleased features (for next sprint or release), bugs, unresolved issues.
 + Add fixes or patches as needed.
 + Plan for product end-of-life if needed.
 + Review lessons learned, retrospective.
