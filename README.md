@@ -50,9 +50,9 @@ Example Mission Statements
 ##### 3. Define stakeholders, roles  
 + Stakeholders are anyone who has an interest in the project.  
     + Managers, funding sources
+    + Customers (internal and external)
     + Engineers, sales, marketing, tech support
     + Contractors, vendors (hardware and software resources, infrastructure)
-    + Customers (internal and external)
 + Roles
     + Software developer
     + Software tester
@@ -60,7 +60,7 @@ Example Mission Statements
     + Product owner, scrum master (helps define the product, keep it on track)
     + Managers, executives, administration, accountants  
 
-Some roles may overlap, depending how things are done.
+Some roles may overlap, depending how things are organized.
 
 ##### 4. Resources, Schedule, Scope 
 There are three main project variables to work with.
@@ -70,7 +70,7 @@ There are three main project variables to work with.
 
 Some of these are defined early in a project.  For example, create a basic outline needed to obtain budget, resources and approval.  Once basic resources are approved, you have some leeway to allocate or rearrange them. 
 
-The *Iron Triangle.*  (find picture)  You can trade off project variables.  
+The *Iron Triangle* or *Triple Constraint.*  (find picture)  You can trade off project variables.  
 
 Examples:
 + *If schedule is cut:* Cut the scope and do less work, or add resources and do the same amount of work.  
