@@ -2,7 +2,7 @@
 
 ### Why project management?  
 
-__Scenario:__  You're working on a project, writing software, adding and fixing features for a great new product.  Everything is going smoothly.   __*Then*__ someone on the team wants to add a new feature, but it doesn't quite mesh with the rest of the product, and may delay the current timeline for release.
+__Scenario:__  You're working on a project, writing software, adding and fixing features for a great new product.  Everything is going well.   __*Then*__ someone on the team wants to add a new feature, but it doesn't quite mesh with the rest of the product, and may delay the current timeline for release.
 
 __Q: What can you do?__
 + Get organized. 
@@ -20,15 +20,15 @@ There are several common styles of project management:
 + Lean
 + XP or Extreme Programming
 
-There are many resources available for details of each of these.  Shared features include:
+There are many resources available for details of these online.  Shared features include:
 + Small flexible teams.
-+ Interaction with customer representatives.
 + Iterative product cycles, with a working product at end of each cycle.
 + Several iterations to achieve a viable product.
++ Interaction with customer representatives.
 + Short meetings to resolve issues.
-+ Review feature backlog, priorities, scope.
++ Review of features, bugs, priorities and scope.
 
-Regardless of which project management style you use, there are several common features and tools.
+Regardless of which project management style you use, there are several common methods used in practice to implement them.
 
 ### Essential Features of Project Management
 
@@ -47,7 +47,7 @@ Example Mission Statements
     + Create mission statement.
     + Get backing of key stakeholders.
 + Middle: 
-    + Many steps or iterations to do on most projects.
+    + Many steps or iterations on most projects.
     + Ramp up resources, get stuff done.
     + Release working software on each iteration cycle.
 + End:
@@ -66,7 +66,7 @@ Example Mission Statements
     + Software developer
     + Software tester
     + Customer representatives
-    + Product owner, scrum master (helps define the product, keep it on track)
+    + Product owner (helps define the product, keep it on track)
     + Managers, executives, administration, accountants  
 
 Some roles may overlap, depending on team size and organization.
@@ -89,32 +89,34 @@ The *Iron Triangle* or *Triple Constraint.*   You can trade off project variable
 <img src="https://github.com/bfetler/project_management/blob/master/images/iron-triangle1.png" alt="iron triangle" />
 
 Examples of trade offs:
-+ *If schedule is cut:* Cut the scope and do less work in less time, or add resources and do the same amount of work.  
-+ *If resources are cut:* Increase the schedule and add time to get the same amount of work done.
++ *If schedule is cut:*
+    + Cut the scope and do less work in fewer iterations.
+    + Add resources and do the same amount of work in fewer iterations.  
++ *If resources are cut:* Increase the schedule and add time (more iterations) to get the same amount of work done.
 + *If time estimates are too short:* 
-    + Increase the schedule (let the schedule slip).
-    + Cut the scope, pushing some features to the next phase.
+    + Increase the schedule and add more iterations (let schedule slip).
+    + Cut the scope, pushing some features to the next phase (keep on schedule).
 
-At the start of a project, you may set milestones, or major changes in scope, to help determine phases.
+At the start of a project, you may set milestones, or major changes in scope, to help determine phases and the number of iterations.
 
-#### 6. Work Breakdown Structure
-Define what the team will do in each phase.
+#### 6. Work Items
+Define what the team will do in each phase or iteration.
 + Brainstorm ideas (usually at start of phase).
-+ Define user stories, what customers want. May be broken into individual interactions:
++ Define user stories, what customers want. May be divided into individual interactions:
     + Customer A
     + looking for item B
     + visits web page W
     + has possible choices C1, C2, C3
     + has possible outcomes O1, O2, O3
     + assign initial priority to user story (high, low, 1-5)
-+ Break into doable pieces, work items.  Level of detail depends what you need.
++ Break into doable pieces, work items.  Level of detail depends what you need and experience of the team.
 + Define dependencies.  *Example:* 
     + Item A must be done before Items B and C.
     + Items B and C may be done in any order, and do not depend on each other.
 + Rearrange work items, schedules.
 + Prioritize items and user stories.  Some items are required, have fixed schedule and dependencies, others are flexible.
 + Get time estimates for each item.
-    + Estimates based on past history or metrics.
+    + Estimates are based on past history or metrics.
     + Don't forget time for writing and testing software, writing documentation.
     + Are time estimates accurate?  What is the error range?
 
@@ -126,13 +128,13 @@ Tools for defining work items, work flow:
 + feature tracking, bug tracking
 + design review
 + email, talk to each other (human communication)
-+ software source code tools: git, branching (for features, tests, production)
++ software source code tools: git, branching (features, tests, production)
 + get metrics: measure time to complete items (depends on complexity)
 
-Once definitions are set:
+Once work items are known:
 + Do high priority items first, the ones in scope for phase or project.
 + Move other items to a later phase.
-+ Be flexible and aware that priorities and definitions may change.
++ Be flexible. Be aware that priorities and definitions will often change.
 
 #### 7. Different ways to manage projects
 How to manage a project depends on the organization.
@@ -142,6 +144,7 @@ How to manage a project depends on the organization.
     + Several iterations to achieve viable product.
     + *Example:* Scrum
         + Monthly sprints (working product at end of each sprint).
+        + Product owner is known as scrum master.
         + Daily short standup meetings to resolve blocking issues.
         + Review feature backlog, burndown rate, priorities.  
 + Big companies, government:
@@ -178,7 +181,7 @@ Hopefully this will avoid repeat meetings on the same topic with no decisions ma
 
 #### 9. Project end
 + Push to production.
-+ Communicate well with stakeholders.
++ Communicate with stakeholders.
 + Get revenue.
 + Gather and monitor feedback.
 + Track unreleased features (for next sprint or release), bugs, unresolved issues.
