@@ -84,8 +84,6 @@ There are three main project variables to work with.
 + *Schedule*: define time estimates, dependencies of different phases of project
 + *Scope*: what is included in each phase, and what is not
 
-At project start, one usually sets milestones, major changes in scope to help determine phases.
-
 The *Iron Triangle* or *Triple Constraint.*   You can trade off project variables. 
 
 <img src="https://github.com/bfetler/project_management/blob/master/images/iron-triangle1.png" alt="iron triangle" />
@@ -96,6 +94,8 @@ Examples:
 + *If time estimates are too short:* 
     + Increase the schedule (let the schedule slip).
     + Cut the scope, pushing some features to the next phase.
+
+At the start of a project, you may set milestones, or major changes in scope, to help determine phases.
 
 #### 6. Work Breakdown Structure
 Define what the team will do in each phase.
