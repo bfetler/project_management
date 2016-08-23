@@ -88,7 +88,7 @@ The *Iron Triangle* or *Triple Constraint.*   You can trade off project variable
 
 <img src="https://github.com/bfetler/project_management/blob/master/images/iron-triangle1.png" alt="iron triangle" />
 
-Examples:
+Examples of trade offs:
 + *If schedule is cut:* Cut the scope and do less work in less time, or add resources and do the same amount of work.  
 + *If resources are cut:* Increase the schedule and add time to get the same amount of work done.
 + *If time estimates are too short:* 
@@ -126,8 +126,8 @@ Tools for defining work items, work flow:
 + feature tracking, bug tracking
 + design review
 + email, talk to each other (human communication)
-+ software source code tools: git, feature / test / production branches
-+ get metrics: measure time to complete items, depends on complexity
++ software source code tools: git, branching (for features, tests, production)
++ get metrics: measure time to complete items (depends on complexity)
 
 Once definitions are set:
 + Do high priority items first, the ones in scope for phase or project.
@@ -136,7 +136,7 @@ Once definitions are set:
 
 #### 7. Different ways to manage projects
 How to manage a project depends on the organization.
-+ Small companies, startups.
++ Small companies, startups:
     + Agile, iterative.
     + Small flexible teams.  
     + Several iterations to achieve viable product.
@@ -144,7 +144,7 @@ How to manage a project depends on the organization.
         + Monthly sprints (working product at end of each sprint).
         + Daily short standup meetings to resolve blocking issues.
         + Review feature backlog, burndown rate, priorities.  
-+ Big companies, government.
++ Big companies, government:
     + Break into smaller, agile teams.
     + Need organization, e.g. scrum of scrums.
     + Teams communicate with each other depending on phases.
