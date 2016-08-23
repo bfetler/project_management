@@ -1,11 +1,8 @@
 ## Essentials of Project Management
 
-### Why need project management?  
+### Why project management?  
 
-__Scenario:__  You're working on a project, writing software, adding and fixing features for a great new product.  __*Then*__ someone on the team wants to add a new feature, but:
-+ it doesn't quite mesh with the rest of the product
-+ it may break other features
-+ it may delay the current timeline for release.
+__Scenario:__  You're working on a project, writing software, adding and fixing features for a great new product.  Everything is going smoothly.   __*Then*__ someone on the team wants to add a new feature, but it doesn't quite mesh with the rest of the product, and may delay the current timeline for release.
 
 __Q: What can you do?__
 + Get organized. 
@@ -18,16 +15,24 @@ Project management helps you organize, understand, anticipate and react to chang
 Project management tools can help you understand how they think, help them plan, and keep everything running smoothly.  
 
 There are several common styles of project management:
-+ Agile 
++ Agile
 + Scrum
 + Lean
-+ XP (Extreme Programming)
++ XP or Extreme Programming
 
-There are many resources available for details of each of these.  Regardless of which project management style you use, there are several common features and tools.
+There are many resources available for details of each of these.  Shared features include:
++ Small flexible teams.
++ Interaction with customer representatives.
++ Iterative product cycles, with a working product at end of each cycle.
++ Several iterations to achieve a viable product.
++ Short meetings to resolve issues.
++ Review feature backlog, priorities, scope.
+
+Regardless of which project management style you use, there are several common features and tools.
 
 ### Essential Features of Project Management
 
-##### 1. Definition
+#### 1. Definition
 *Q:* What is a project?  
 *A:* An activity with a definite, measurable goal within a specified time frame.  
 
@@ -36,23 +41,22 @@ Example Mission Statements
 + Create a way to post your resume online and track who visited it by the end of the year, or until you get a job.  Maybe 30 people would like to use it.  (Rasmus Lerdof, PHP creator)
 + Create an online music service for your friends to share music before festival season starts.
 
-##### 2. Project phases
+#### 2. Project phases
 + Start: 
-    + Define the project.  
+    + Define the project.
     + Create mission statement.
-    + Get backing of key stakeholders.  
-    + Obtain budget and resources.  
+    + Get backing of key stakeholders.
 + Middle: 
-    + Many steps or iterations to do on most projects.  
-    + Ramp up resources, get stuff done.  
+    + Many steps or iterations to do on most projects.
+    + Ramp up resources, get stuff done.
     + Release working software on each iteration cycle.
-+ End: 
-    + Product release.
-    + Reallocate resources to other projects.  
++ End:
+    + Push to production, product release.
+    + Reallocate resources to other projects.
     + Plan for maintenance, product support.
     + Reflect on lessons learned.
 
-##### 3. Define stakeholders, roles  
+#### 3. Define stakeholders, roles  
 + Stakeholders are anyone who has an interest in the project.  
     + Managers, funding sources
     + Customers (internal and external)
@@ -67,14 +71,14 @@ Example Mission Statements
 
 Some roles may overlap, depending on team size and organization.
 
-##### 4. Project Start
+#### 4. Project Start
 To obtain a budget and approval at the start of a project, one usually creates
-+ a mission statement
 + outline of phases to achieve a minimum viable product (MVP)
 + initial estimates
+
 Once basic resources are approved, you may have some leeway to allocate or rearrange them. 
 
-##### 5. Resources, Schedule, Scope 
+#### 5. Resources, Schedule, Scope 
 There are three main project variables to work with.
 + *Resources*: people, budget, software and hardware needed
 + *Schedule*: define time estimates, dependencies of different phases of project
@@ -93,7 +97,7 @@ Examples:
     + Increase the schedule (let the schedule slip).
     + Cut the scope, pushing some features to the next phase.
 
-##### 6. Work Breakdown Structure
+#### 6. Work Breakdown Structure
 Define what the team will do in each phase.
 + Brainstorm ideas (usually at start of phase).
 + Define user stories, what customers want. May be broken into individual interactions:
@@ -123,14 +127,14 @@ Tools for defining work items, work flow:
 + design review
 + email, talk to each other (human communication)
 + software source code tools: git, feature / test / production branches
-+ get metrics: how complex each item, how long to complete
++ get metrics: measure time to complete items, depends on complexity
 
 Once definitions are set:
 + Do high priority items first, the ones in scope for phase or project.
 + Move other items to a later phase.
 + Be flexible and aware that priorities and definitions may change.
 
-##### 7. Different ways to manage projects
+#### 7. Different ways to manage projects
 How to manage a project depends on the organization.
 + Small companies, startups.
     + Agile, iterative.
@@ -153,7 +157,7 @@ All methods of project management need the following common items.
 + customer feedback
 + issue tracking, metrics
 
-##### 8. Tips for productive meetings
+#### 8. Tips for productive meetings
 Not all the steps below are necessary for every meeting, but they can lead to better productivity.  
 + What type of meeting is it?  
     + Announcements, design review, status reports?
@@ -172,7 +176,7 @@ Not all the steps below are necessary for every meeting, but they can lead to be
 
 Hopefully this will avoid repeat meetings on the same topic with no decisions made.
 
-##### 9. Project end
+#### 9. Project end
 + Push to production.
 + Communicate well with stakeholders.
 + Get revenue.
