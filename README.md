@@ -28,10 +28,7 @@ These are generally known as agile methods.  There are many resources available 
 + Short meetings to resolve issues.
 + Review of features, bugs, priorities and scope.
 
-Regardless of project management style, they generally share several definitions and practical methods.
-Regardless of project management style, they generally have some essential definitions and practical methods in common.
-Regardless of project management style, they generally share several essential definitions and methods.
-Regardless of style, most project management methods use some essential definitions and practices.
+Regardless of project management style, in practice they usually share some essential definitions and methods.
 
 ### Essential Methods of Project Management
 
@@ -213,7 +210,9 @@ Hopefully this will avoid repeat meetings on the same topic with no decisions ma
 + Use software tracking, feature and bug tracking.
 + Build your dream.
 
-These tools are here to help you.  They also help managers track and understand what's going on.
+These tools are here to help you.  They also help managers track and understand what's going on.  
+
+Not every step needs to be followed for every project, but hopefully some of the ideas will help you keep projects on track and be productive.
 
 If you like, take a class on Project Management (usually 8-10 weeks).  Practice with the projects you have.  You can even get certified as a PMP (Project Management Professional).
 
