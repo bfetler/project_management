@@ -75,7 +75,7 @@ Some roles may overlap, depending on team size and organization.
 To obtain a budget and approval at the start of a project, one usually creates
 + Set of features desired in the product.
 + Set of features required to achieve a minimum viable product (MVP).
-+ List of milestones, or major changes in scope, needed to achieve features.  Milestones may or may not be ordered or prioritized.
++ List of milestones, or major changes in scope, needed to create features.  Milestones may or may not be ordered or prioritized.
 + Initial time and resource estimates.
 
 Once basic resources are approved, you may have some leeway to allocate or rearrange them. 
@@ -86,14 +86,9 @@ There are three main project variables to work with.
 + *Schedule*: define time estimates, dependencies of different phases of project
 + *Scope*: what is included in each phase, and what is not
 
-The *Iron Triangle* or *Triple Constraint.*   You can trade off project variables. 
+The variables generally form a *Triple Constraint.*   You can trade off project variables, which may affect product quality. 
 
 <img src="https://github.com/bfetler/project_management/blob/master/images/iron-triangle1.png" alt="iron triangle" />
-
-__Q:__ When to consider the triple constraint?
-+ At project start.
-+ When creating or adjusting different phases or sprints.
-+ Within a phase or sprint to meet a deadline.
 
 Examples of trade offs:
 + *If time estimates are too short:* 
@@ -108,6 +103,11 @@ Examples of trade offs:
 + *If scope is increased:*
     + Add more iterations to increase schedule and get increased work done.
     + Add more resources within same schedule to get increased work done.
+
+Trade offs using the triple constraint are usually considered:
++ At project start.
++ When creating or adjusting different phases or sprints.
++ Within a phase or sprint to meet a deadline.
 
 #### 6. Work Items
 Define what the team will do in each phase or iteration.
@@ -210,9 +210,9 @@ Hopefully this will avoid repeat meetings on the same topic with no decisions ma
 + Use software tracking, feature and bug tracking.
 + Build your dream.
 
-These tools are here to help you.  They also help managers track and understand what's going on.  
+Not every step above needs to be followed for every project, but hopefully some of the ideas will help you keep projects on track and be productive.
 
-Not every step needs to be followed for every project, but hopefully some of the ideas will help you keep projects on track and be productive.
+These tools are here to help you.  They also help managers track and understand what's going on.  
 
 If you like, take a class on Project Management (usually 8-10 weeks).  Practice with the projects you have.  You can even get certified as a PMP (Project Management Professional).
 
