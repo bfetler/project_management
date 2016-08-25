@@ -1,4 +1,4 @@
-## Essentials of Project Management
+## Practical Software Project Management
 
 ### Why project management?  
 
@@ -105,7 +105,7 @@ Examples of trade offs:
     + Add more resources within same schedule to get increased work done.
 
 Trade offs using the triple constraint are usually considered:
-+ At project start.
++ At the project start.
 + When creating or adjusting different phases or sprints.
 + Within a phase or sprint to meet a deadline.
 
