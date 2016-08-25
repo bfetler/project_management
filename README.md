@@ -20,17 +20,20 @@ There are several common styles of project management:
 + Lean
 + XP or Extreme Programming
 
-There are many resources available for details of these online.  Shared features include:
+These are generally known as agile methods.  There are many resources available for them online.  Common features include:
 + Small flexible teams.
 + Iterative product cycles, with a working product at end of each cycle.
 + Several iterations to achieve a viable product.
-+ Interaction with customer representatives.
++ Interaction with customer representatives to define, test and evaluate.
 + Short meetings to resolve issues.
 + Review of features, bugs, priorities and scope.
 
-Regardless of which project management style you use, there are several common methods used in practice to implement them.
+Regardless of project management style, they generally share several definitions and practical methods.
+Regardless of project management style, they generally have some essential definitions and practical methods in common.
+Regardless of project management style, they generally share several essential definitions and methods.
+Regardless of style, most project management methods use some essential definitions and practices.
 
-### Essential Features of Project Management
+### Essential Methods of Project Management
 
 #### 1. Definition
 *Q:* What is a project?  
@@ -73,8 +76,10 @@ Some roles may overlap, depending on team size and organization.
 
 #### 4. Project Start
 To obtain a budget and approval at the start of a project, one usually creates
-+ outline of phases to achieve a minimum viable product (MVP)
-+ initial estimates
++ Set of features desired in the product.
++ Set of features required to achieve a minimum viable product (MVP).
++ List of milestones, or major changes in scope, needed to achieve features.  Milestones may or may not be ordered or prioritized.
++ Initial time and resource estimates.
 
 Once basic resources are approved, you may have some leeway to allocate or rearrange them. 
 
@@ -88,16 +93,24 @@ The *Iron Triangle* or *Triple Constraint.*   You can trade off project variable
 
 <img src="https://github.com/bfetler/project_management/blob/master/images/iron-triangle1.png" alt="iron triangle" />
 
+__Q:__ When to consider the triple constraint?
++ At project start.
++ When creating or adjusting different phases or sprints.
++ Within a phase or sprint to meet a deadline.
+
 Examples of trade offs:
++ *If time estimates are too short:* 
+    + Cut the scope, pushing some features to the next phase (keep on schedule).
+    + Increase the schedule and add more time (let schedule slip).
 + *If schedule is cut:*
     + Cut the scope and do less work in fewer iterations.
     + Add resources and do the same amount of work in fewer iterations.  
-+ *If resources are cut:* Increase the schedule and add time (more iterations) to get the same amount of work done.
-+ *If time estimates are too short:* 
-    + Increase the schedule and add more iterations (let schedule slip).
++ *If resources are cut:*
+    + Increase the schedule and add more iterations to get the same amount of work done.
     + Cut the scope, pushing some features to the next phase (keep on schedule).
-
-At the start of a project, you may set milestones, or major changes in scope, to help determine phases and the number of iterations.
++ *If scope is increased:*
+    + Add more iterations to increase schedule and get increased work done.
+    + Add more resources within same schedule to get increased work done.
 
 #### 6. Work Items
 Define what the team will do in each phase or iteration.
