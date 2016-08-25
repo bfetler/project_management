@@ -28,9 +28,9 @@ These are generally known as agile methods.  There are many resources available 
 + Short meetings to resolve issues.
 + Review of features, bugs, priorities and scope.
 
-Regardless of project management style, in practice they usually share some essential definitions and methods.
+Regardless of project management style, in practice they usually share some common definitions and methods.
 
-### Essential Methods of Project Management
+### Common Methods of Project Management
 
 #### 1. Definition
 *Q:* What is a project?  
